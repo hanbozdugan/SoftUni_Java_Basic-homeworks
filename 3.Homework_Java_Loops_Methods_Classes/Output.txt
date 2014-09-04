@@ -1,0 +1,7 @@
+1.12 beer
+1.2 water
+1.8 milk
+2.5 juice
+3.2 apple
+8.5 coffee
+18.7 vodka
